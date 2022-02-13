@@ -1,3 +1,6 @@
+### NOTE
+This is used only for blog purpose. Original Blog published at [here.](https://virendraoswal.com/host-vuejs-application-using-netlify)
+
 # vuejs-netlify
 
 > A Vue.js project
@@ -19,3 +22,5 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
